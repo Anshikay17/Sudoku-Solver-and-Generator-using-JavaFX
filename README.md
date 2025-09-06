@@ -19,7 +19,7 @@ An interactive **Sudoku Solver & Generator** built using **JavaFX**, featuring d
 
 ## Technologies Used
 
-- **Java 17+**  
+- **Java**  
 - **JavaFX** for GUI  
 - **Backtracking Algorithm** for Sudoku solving  
 - **Maven** or manual JavaFX SDK setup  
