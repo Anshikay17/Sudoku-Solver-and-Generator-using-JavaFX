@@ -14,8 +14,8 @@ An interactive **Sudoku Solver & Generator** built using **JavaFX**, featuring d
 
 
 ## Screenshots
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ce8d47e2-f69d-4ba2-ba2a-8bdfa8bcd81f" />                  
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/fa589791-0fa7-4070-bfd6-5139eb764964" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ce8d47e2-f69d-4ba2-ba2a-8bdfa8bcd81f" style="margin-right: 20px;" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/fa589791-0fa7-4070-bfd6-5139eb764964" />
 
 
 ## Technologies Used
