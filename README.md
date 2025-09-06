@@ -2,7 +2,6 @@
 
 An interactive **Sudoku Solver & Generator** built using **JavaFX**, featuring dynamic puzzle generation, difficulty levels, puzzle validation, and an intuitive GUI.
 
----
 
 ## Features
 
@@ -13,7 +12,6 @@ An interactive **Sudoku Solver & Generator** built using **JavaFX**, featuring d
 - **Clear & Reset:** Reset the grid at any time to start fresh.  
 - **Help Section:** Provides instructions on how to play Sudoku within the app.
 
----
 
 ## Screenshots
 <img width="747" height="885" alt="image" src="https://github.com/user-attachments/assets/fa589791-0fa7-4070-bfd6-5139eb764964" />
@@ -25,8 +23,6 @@ An interactive **Sudoku Solver & Generator** built using **JavaFX**, featuring d
 - **JavaFX** for GUI  
 - **Backtracking Algorithm** for Sudoku solving  
 - **Maven** or manual JavaFX SDK setup  
-
----
 
 ## Usage
 
